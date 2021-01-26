@@ -1,0 +1,49 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>baidu</title>
+    <span>&nbsp;&nbsp;&nbsp;新闻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+    <span>hao123&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>地图&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>直播&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>视频&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>贴吧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>学术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>更多&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</head>
+<style>
+    .size {
+        margin: 10px;
+        width: 256px;
+        height: 192px;
+    }
+    .center {
+        text-align: center;
+    }
+    .left{
+        text-align: left;
+    }
+    .blue{
+        color:blue;
+    }
+    </style>
+<body>
+    <div>
+        <div>
+            <div>
+    <div class="center"><img src="baidu.jpg" class="size"/>
+    <div id="box">
+        <input type="search" name="search" placeholder="请输入关键字">
+        <span id="search" class="blue">百度一下</span>
+        <div>
+            <div>
+            <div class="left" class="blue">百度热榜</div>
+            <span>1<class="blue"> 直击：山东栖霞部分矿工陆续升井&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span>3 医院拒诊中高风险地区患者被约谈</span>
+            <div>
+                <span>2 张伯礼称今冬疫情有望3月初结束&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>4 通化副市长就物资配送不及时道歉</span> 
+</body>
+</html>
